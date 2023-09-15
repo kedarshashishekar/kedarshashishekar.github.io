@@ -39,7 +39,7 @@ $(document).ready(function () {
 
 
     // URL of the JSON file
-    const url = 'https://raw.githubusercontent.com/kuldeepsingh-in/kuldeepsingh-in.github.io/main/badgeData.json';
+    const url = 'https://raw.githubusercontent.com/kedarshashishekar/kedarshashishekar.github.io/main/badgeData.json';
     // Fetch the JSON data from the URL
     fetch(url)
         .then(response => {
